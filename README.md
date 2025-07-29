@@ -3,4 +3,4 @@
   <img src="https://github.com/user-attachments/assets/65734ff1-9bed-49fd-b433-cd5a624e1707" alt="Shell Logo" height="45">
 </p>
 
-# AI-Cloud-Internship-Edunet-IBM-SkillBuild
+# AI/Cloud Internship-Edunet × IBM SkillBuild
