@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/432f4916-f707-4ccc-9b5e-0770abf9362b" alt="Edunet Foundation" height="45" style="margin-right: 15px;">
+  <img src="https://github.com/user-attachments/assets/65734ff1-9bed-49fd-b433-cd5a624e1707" alt="Shell Logo" height="45">
+</p>
 
 # Gyan Mitra: An AI Career Counselor for Rural Youth 🚀
 Gyan Mitra (meaning "Knowledge Friend" in Hindi) is an AI-powered conversational agent designed to provide accessible and personalized career guidance to youth in rural areas. This project was developed as a key deliverable for the AI/Cloud internship with IBM SkillsBuild and Edunet Foundation.
