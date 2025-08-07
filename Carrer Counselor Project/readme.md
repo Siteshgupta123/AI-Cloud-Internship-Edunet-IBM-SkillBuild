@@ -33,8 +33,12 @@ The agent leverages the power of IBM watsonx.ai to retrieve and synthesize infor
 ## 🛠️ Technology Stack
 - AI/ML Service: IBM watsonx.ai for the RAG model and IBM Granite foundation model
 ----------------- 
-##  Project Screenshots
-(Add your screenshots here to showcase the agent's chat interface and functionality.)
+##  Project View:
+
+
+https://github.com/user-attachments/assets/6f868819-1088-45bc-9fc3-d7ca70aac605
+
+
 
 🤝 Acknowledgments
 This project was developed as a part of the AI/Cloud Internship program, a collaboration between IBM SkillsBuild and the Edunet Foundation.
